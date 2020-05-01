@@ -1,0 +1,12 @@
+{
+        "compileOnSave": true,
+        "compilerOptions": {
+                "target": "es2015",
+                "module": "commonJS",
+                "baseUrl": "./node_modules/ngrok/bin/ngrok",
+                "sourceMap": true
+        },
+        "exclude": [
+                "node_modeles"
+        ]
+}
